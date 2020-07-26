@@ -8,4 +8,13 @@ I am the Chief Administrative Officer for [MenuDocs](https://menudocs.org); an o
 
 <hr>
 
-You can contact me through `t3ned.root@gmail.com` or, for inquires about NedBot, `george@nedbot.org`. My Discord is T3NED#0001.
+<h4> <i> Languages </i> </h4>
+
+<img width="25px" src="https://github.com/T3NED/T3NED/blob/master/assets/welcome.png">
+<img width="25px" src="https://github.com/T3NED/T3NED/blob/master/assets/typescript.png">
+<img width="25px" src="https://github.com/T3NED/T3NED/blob/master/assets/javascript.png">
+<img width="25px" src="https://github.com/T3NED/T3NED/blob/master/assets/nodejs.png">
+<img width="25px" src="https://github.com/T3NED/T3NED/blob/master/assets/python.png">
+<img width="25px" src="https://github.com/T3NED/T3NED/blob/master/assets/html.png">
+
+<i>You can contact me through `t3ned.root@gmail.com` or, for inquires about NedBot, `george@nedbot.org`. My Discord is T3NED#0001.</i>
