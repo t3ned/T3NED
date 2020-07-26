@@ -12,12 +12,12 @@ I am the Chief Administrative Officer for [MenuDocs](https://menudocs.org); an o
 
 <h4> <i> Languages </i> </h4>
 
-<img width="25px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/welcome.png">
-<img width="25px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/typescript.png">
-<img width="25px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/javascript.png">
-<img width="25px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/nodejs.png">
-<img width="25px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/python.png">
-<img width="25px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/html.png">
+<img width="25px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/welcome.svg">
+<img width="25px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/typescript.svg">
+<img width="25px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/javascript.svg">
+<img width="25px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/nodejs.svg">
+<img width="25px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/python.svg">
+<img width="25px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/html.svg">
 
 <i>You can contact me through `t3ned.root@gmail.com` or, for inquires about NedBot, `george@nedbot.org`. My Discord is T3NED#0001.</i>
 
