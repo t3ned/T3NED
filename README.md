@@ -19,8 +19,6 @@ I am the lead developer of [NedBot](https://www.nedbot.org); a moderation orient
 <br>
 <br>
 
-<i>You can contact me through `t3ned.root@gmail.com` or, for inquires about NedBot, `george@nedbot.org`.
-
-My Discord is T3NED#0001 but I rarely accept friend requests.</i>
+<i>You can contact me through `software@t3ned.com` or `george@nedbot.org` for NedBot business inquiries.</i>
 
 </div>
