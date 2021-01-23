@@ -1,24 +1,30 @@
-<img src="https://github.com/T3NED/T3NED/blob/master/assets/welcome.png">
+<img src="./assets/welcome.png">
 
-My name is George; commonly known as T3NED. I am a Computer Science, Business and English student from the United Kingdom. I consider myself hardworking but waste most of my free time procrastinating. I enjoy moderating because of the people I meet along the way.
+### 📚 About
 
-I am the lead developer of [NedBot](https://www.nedbot.org); a moderation oriented general-purpose [Discord](https://discord.com) bot built with their [API](https://discord.com/developers). NedBot is composed in Typescript with love.
+Hi - I'm T3NED, a Computer Science student from the United Kingdom. I spend most of my free time procrastinating, but I'm a fast learner and always look to improve my work ethic.
 
-<hr>
+### 👷‍♂️ Projects
 
-<div align="center">
+- [NedBot](https://nedbot.org) - Discord moderation, without the hassle
+- [Modwire](https://github.com/T3NED/Modwire) - Open source discord moderation bot
 
-<h2> <i> Languages </i> </h2>
+### 🔧 Tools
 
-<img width="50px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/typescript.svg">
-<img width="50px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/javascript.svg">
-<img width="50px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/nodejs.svg">
-<img width="50px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/python.svg">
-<img width="50px" src="https://raw.githubusercontent.com/T3NED/T3NED/master/assets/html.svg">
-
-<br>
-<br>
-
-<i>You can contact me through `software@t3ned.com` or `george@nedbot.org` for NedBot business inquiries.</i>
+<div>
+  <img width="30px" src="./assets/typescript.svg">
+  <img width="30px" src="./assets/javascript.svg">
+  <img width="30px" src="./assets/python.svg">
+  <img width="30px" src="./assets/c.svg">
+  <img width="30px" src="./assets/cpp.svg">
+  <img width="30px" src="./assets/java.svg">
+  <img width="30px" src="./assets/mysql.svg">
+  <img width="30px" src="./assets/postgresql.svg">
+  <img width="30px" src="./assets/mongodb.svg">
 
 </div>
+
+### 📧 Contact
+
+- <b>Discord:</b> T3NED#0001
+- <b>Email:</b> software@t3ned.com
