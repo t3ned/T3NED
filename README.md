@@ -7,7 +7,7 @@ Hi - I'm T3NED, a Computer Science student from the United Kingdom. I spend most
 ### 👷‍♂️ Projects
 
 - [NedBot](https://nedbot.org) - Discord moderation, without the hassle
-- [Modwire](https://github.com/T3NED/Modwire) - Open source discord moderation bot
+- [Tabwire Stats](https://tabstats.com/discordbot) - A Discord bot for tracking player stats for your favourite games!  
 
 ### 🔧 Tools
 
