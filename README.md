@@ -17,6 +17,7 @@ Hi - I'm T3NED, a Computer Science student from the United Kingdom. I spend most
   <img width="30px" src="./assets/python.svg">
   <img width="30px" src="./assets/c.svg">
   <img width="30px" src="./assets/cpp.svg">
+  <img width="30px" src="./assets/csharp.svg">
   <img width="30px" src="./assets/java.svg">
   <img width="30px" src="./assets/mysql.svg">
   <img width="30px" src="./assets/postgresql.svg">
