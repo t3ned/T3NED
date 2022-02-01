@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/welcome.png">
+  <img align="center" width="100px" src="./assets/logo.png">
   <h1>Hi, I'm George.</h1>
   I am a Computer Science student & Software Engineer from the United Kingdom with a fast and positive work ethic
   <br>
