@@ -1,12 +1,12 @@
 <div align="center">
   <img align="center" width="70px" src="./assets/logo.png">
   <h1>Hi, I'm George.</h1>
-  I am a Computer Science student & Software Engineer from the United Kingdom with a fast and positive work ethic
+  I am a Computer Science student & Software Engineer from the United Kingdom with a fast and positive work ethic.
   <br>
   <h3><i>Projects</i></h3>
   <strong><a href="https://nedbot.org">NedBot</a></strong> - Discord moderation, without the hassle.
   <br>
-  <strong><a href="https://tabstats.com/discordbot">Tabwire Stats</a></strong> - Track player stats for your favourite games on Discord!
+  <strong><a href="https://tabstats.com/discordbot">Tabwire Stats</a></strong> - Track player stats for your favourite games on Discord.
   <br>
   <strong><a href="https://github.com/TeamDisguard">Disguard</a></strong> - A Discord user reporting platform for malicious users. 
   <br>
