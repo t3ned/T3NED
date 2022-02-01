@@ -1,31 +1,40 @@
-<img src="./assets/welcome.png">
-
-### 📚 About
-
-Hi - I'm T3NED, a Computer Science student from the United Kingdom. I spend most of my free time procrastinating, but I'm a fast learner and always look to improve my work ethic.
-
-### 👷‍♂️ Projects
-
-- [NedBot](https://nedbot.org) - Discord moderation, without the hassle
-- [Tabwire Stats](https://tabstats.com/discordbot) - A Discord bot for tracking player stats for your favourite games!  
-
-### 🔧 Tools
-
-<div>
-  <img width="30px" src="./assets/typescript.svg">
-  <img width="30px" src="./assets/javascript.svg">
-  <img width="30px" src="./assets/python.svg">
-  <img width="30px" src="./assets/c.svg">
-  <img width="30px" src="./assets/cpp.svg">
-  <img width="30px" src="./assets/csharp.svg">
-  <img width="30px" src="./assets/java.svg">
-  <img width="30px" src="./assets/mysql.svg">
-  <img width="30px" src="./assets/postgresql.svg">
-  <img width="30px" src="./assets/mongodb.svg">
-
+<div align="center">
+  <img src="./assets/welcome.png">
+  <h1>Hi, I'm George.</h1>
+  I am a Computer Science student & Software Engineer from the United Kingdom with a fast and positive work ethic
+  <br>
+  <br>
+  <h4><i>Projects</i></h4>
+  <strong><a href="https://nedbot.org">NedBot</a></strong> - Discord moderation, without the hassle.
+  <br>
+  <strong><a href="https://tabstats.com/discordbot">Tabwire Stats</a></strong> - Track player stats for your favourite games on Discord!
+  <br>
+  <strong><a href="https://github.com/TeamDisguard">Disguard</a></strong> - A Discord user reporting platform for malicious users. 
+  <br>
+  <br>
+  <h4><i>Programming Languages & Tools</i></h4>
+  <img align="center" width="30px" src="./assets/languages/typescript.svg">
+  <img align="center" width="30px" src="./assets/languages/nodejs.svg">
+  <img align="center" width="30px" src="./assets/languages/go.svg">
+  <img align="center" width="30px" src="./assets/languages/python.svg">
+  <img align="center" width="30px" src="./assets/languages/c.svg">
+  <img align="center" width="30px" src="./assets/languages/cs.svg">
+  <img align="center" width="30px" src="./assets/languages/javascript.svg">
+  <img align="center" width="30px" src="./assets/languages/html.svg">
+  <img align="center" width="30px" src="./assets/languages/css.svg">
+  <img align="center" width="35px" src="./assets/languages/php.svg">
+  <img align="center" width="35px" src="./assets/tools/docker.svg">
+  <img align="center" width="30px" src="./assets/tools/kubernetes.svg">
+  <img align="center" width="30px" src="./assets/tools/git.svg">
+  <img align="center" width="30px" src="./assets/tools/linux.svg">
+  <img align="center" width="30px" src="./assets/tools/aws.svg">
+  <br>
+  <br>
+  <h4><i>Contact Me</i></h4>
+  <strong>Discord:</strong> <a href="https://discord.com/users/424566306042544128">T3NED#0001</a>
+  <br>
+  <strong>Twitter:</strong> <a href="https://twitter.com/JustT3NED">@JustT3NED</a>
+  <a href="mailto:software@t3ned.com">software@t3ned.com</a>
+  <br>
+  <br>
 </div>
-
-### 📧 Contact
-
-- <b>Discord:</b> T3NED#0001
-- <b>Email:</b> software@t3ned.com
