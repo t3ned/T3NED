@@ -4,11 +4,11 @@
   Computer Science and Business student by day, Backend Engineer by night
   <br>
   <h5>Projects</h5>
-  <strong><a href="https://nedbot.org">NedBot</a></strong> - Discord moderation, without the hassle.
+  <strong><a href="https://tabstats.com">TabStats</a></strong> - Track player stats for your favourite games
   <br>
-  <strong><a href="https://tabstats.com/discordbot">Tabwire Stats</a></strong> - Track player stats for your favourite games on Discord.
+  <strong><a href="https://nedbot.org">NedBot</a></strong> - Discord moderation, without the hassle
   <br>
-  <strong><a href="https://github.com/TeamDisguard">Disguard</a></strong> - A Discord user reporting platform for malicious users. 
+  <strong><a href="https://github.com/T3NED/fastify-api-base">Fastify API Base</a></strong> - A template to quickly spin up a Fastify API
   <br>
   <h5>Languages & Tools</h5>
   <img align="center" width="30px" src="./assets/languages/typescript.svg">
