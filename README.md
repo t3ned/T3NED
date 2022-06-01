@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center" width="70px" src="./assets/logo.png">
   <h1>Hi, I'm George.</h1>
-  Computer Science and Business student by day, Backend Engineer by night
+   Backend Software Engineer
   <br>
   <h5>Projects</h5>
   <strong><a href="https://tabstats.com">TabStats</a></strong> - Track player stats for your favourite games
