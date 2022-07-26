@@ -9,6 +9,8 @@
   <h5>Projects</h5>
   <strong><a href="https://tabstats.com">TabStats</a></strong> • Backend Developer • Track player stats for your favourite games
   <br>
+  <strong><a href=https://github.com/T3NED/channel">Channel</a></strong> • Ergonomic, chaining-based Typescript framework for quick API development
+  <br>
   <strong><a href="https://nedbot.org">NedBot</a></strong> • Project Lead • Discord moderation, without the hassle
   <br>
   <h5>Languages & Tools</h5>
@@ -30,7 +32,7 @@
   <img align="center" width="35px" src="./assets/tools/docker.svg">
   <br>
   <h5>Contact</h5>
-  <strong>Email:</strong> <a href="mailto:oss@t3ned.com">oss@t3ned.com</a>
+  <strong>Email:</strong> <a href="mailto:oss@t3ned.dev">oss@t3ned.dev</a>
   <br>
   <strong>Website:</strong> <a href="https://t3ned.dev">t3ned.dev</a>
   <br>
