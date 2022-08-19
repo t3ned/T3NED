@@ -5,7 +5,7 @@
   <br>
   <br>
   <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=t3ned.t3ned&right_color=orange">
-  <img align="center" src="https://img.shields.io/badge/commissions-closed-red">
+  <img align="center" src="https://img.shields.io/badge/commissions-open-green">
   <h5>Projects</h5>
   <strong><a href="https://tabstats.com">TabStats</a></strong> • Backend Developer • Track player stats for your favourite games
   <br>
