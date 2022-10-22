@@ -1,17 +1,19 @@
 <div align="center">
   <img align="center" width="70px" src="./assets/logo.png">
   <h1>Hi, I'm George.</h1>
-   <strong><i>Backend Developer</i></strong>
+   <strong><i>Backend Developer, invested in DevOps</i></strong>
   <br>
   <br>
   <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=t3ned.t3ned&right_color=orange">
   <img align="center" src="https://img.shields.io/badge/commissions-open-green">
   <h5>Projects</h5>
-  <strong><a href="https://tabstats.com">TabStats</a></strong> • Backend Developer • Track player stats for your favourite games
+  <strong><a href="https://tabstats.com">TabStats</a></strong> • Track player stats for Siege and Tarvov
   <br>
-  <strong><a href=https://github.com/T3NED/channel">Channel</a></strong> • Ergonomic, chaining-based Typescript framework for quick API development
+  <strong><a href="https://discordconfig.com">Discord Config</a></strong> • Build a dashboard for your Discord bot
   <br>
-  <strong><a href="https://nedbot.org">NedBot</a></strong> • Project Lead • Discord moderation, without the hassle
+  <strong><a href="https://blog.t3ned.dev">Blog</a></strong> • My blogs about my Backend Developer and DevOps journey
+  <br>
+  <strong><a href="https://github.com/T3NED/channel">Channel</a></strong> • Ergonomic, chaining-based framework for quick API development
   <br>
   <h5>Languages & Tools</h5>
   <img align="center" width="30px" src="./assets/languages/typescript.svg">
