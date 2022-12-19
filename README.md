@@ -9,10 +9,6 @@
   <h5>Projects</h5>
   <strong><a href="https://tabstats.com">TabStats</a></strong> • Track player stats for Siege and Tarvov
   <br>
-  <strong><a href="https://discordconfig.com">Discord Config</a></strong> • Build a dashboard for your Discord bot
-  <br>
-  <strong><a href="https://blog.t3ned.dev">Blog</a></strong> • My blogs about my Backend Developer and DevOps journey
-  <br>
   <strong><a href="https://github.com/T3NED/channel">Channel</a></strong> • Ergonomic, chaining-based framework for quick API development
   <br>
   <h5>Languages & Tools</h5>
