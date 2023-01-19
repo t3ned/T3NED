@@ -9,9 +9,9 @@
   <h5>Languages & Tools</h5>
   <img align="center" width="30px" src="./assets/languages/typescript.svg">
   <img align="center" width="30px" src="./assets/languages/nodejs.svg">
-  <img align="center" width="35px" src="./assets/languages/php.svg">
   <img align="center" width="30px" src="./assets/languages/go.svg">
   <img align="center" width="30px" src="./assets/languages/python.svg">
+  <img align="center" width="35px" src="./assets/languages/php.svg">
   <img align="center" width="30px" src="./assets/languages/html.svg">
   <img align="center" width="30px" src="./assets/languages/css.svg">
   <img align="center" width="30px" src="./assets/languages/javascript.svg">
