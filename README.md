@@ -6,11 +6,6 @@
   <br>
   <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=t3ned.t3ned&right_color=orange">
   <img align="center" src="https://img.shields.io/badge/commissions-open-green">
-  <h5>Projects</h5>
-  <strong><a href="https://tabstats.com">TabStats</a></strong> • Track player stats for Siege and Tarvov
-  <br>
-  <strong><a href="https://github.com/T3NED/channel">Channel</a></strong> • Ergonomic, chaining-based framework for quick API development
-  <br>
   <h5>Languages & Tools</h5>
   <img align="center" width="30px" src="./assets/languages/typescript.svg">
   <img align="center" width="30px" src="./assets/languages/nodejs.svg">
