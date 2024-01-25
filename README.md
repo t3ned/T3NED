@@ -1,11 +1,6 @@
 <div align="center">
-  <img align="center" width="70px" src="./assets/logo.png">
+  <img align="center" width="100px" src="./assets/logo.png">
   <h1>Hi, I'm George.</h1>
-   <strong><i>Backend Developer, invested in DevOps</i></strong>
-  <br>
-  <br>
-  <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=t3ned.t3ned&right_color=orange">
-  <img align="center" src="https://img.shields.io/badge/commissions-open-green">
   <h5>Languages & Tools</h5>
   <img align="center" width="30px" src="./assets/languages/typescript.svg">
   <img align="center" width="30px" src="./assets/languages/nodejs.svg">
@@ -24,12 +19,15 @@
   <img align="center" width="30px" src="./assets/tools/kubernetes.svg">
   <img align="center" width="35px" src="./assets/tools/docker.svg">
   <br>
-  <h5>Contact</h5>
-  <strong>Email:</strong> <a href="mailto:oss@t3ned.dev">oss@t3ned.dev</a>
+  <h5>Reach me!</h5>
+  <img align="center" src="https://img.shields.io/badge/commissions-open-green">
+  <br>
+  <br>
+  <strong>Email:</strong> <a href="mailto:me@t3ned.dev">me@t3ned.dev</a>
   <br>
   <strong>Website:</strong> <a href="https://t3ned.dev">t3ned.dev</a>
   <br>
-  <strong>Discord:</strong> <a href="https://discord.com/users/424566306042544128">T3NED#0001</a>
+  <strong>Discord:</strong> <a href="https://discord.com/users/424566306042544128">t3ned</a>
   <br>
   <strong>Twitter:</strong> <a href="https://twitter.com/JustT3NED">@JustT3NED</a>
 </div>
