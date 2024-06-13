@@ -23,11 +23,11 @@
   <img align="center" src="https://img.shields.io/badge/commissions-open-green">
   <br>
   <br>
-  <strong>Email:</strong> <a href="mailto:me@t3ned.dev">me@t3ned.dev</a>
+  <strong>Email:</strong> <a href="mailto:hi@gmiles.dev">hi@gmiles.dev</a>
   <br>
-  <strong>Website:</strong> <a href="https://t3ned.dev">t3ned.dev</a>
+  <strong>Website:</strong> <a href="https://gmiles.dev">gmiles.dev</a>
   <br>
   <strong>Discord:</strong> <a href="https://discord.com/users/424566306042544128">t3ned</a>
   <br>
-  <strong>Twitter:</strong> <a href="https://twitter.com/JustT3NED">@JustT3NED</a>
+  <strong>Twitter:</strong> <a href="https://x.com/JustT3NED">@JustT3NED</a>
 </div>
